@@ -1,5 +1,6 @@
 version: 2
  jobs:
+   build:
    one:
      docker:
        - image: circleci/ruby:2.4.1
